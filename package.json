@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chadrbanks/youtube-node-tutorial/issues"
   },
-  "homepage": "https://github.com/chadrbanks/youtube-node-tutorial#readme"
+  "homepage": "https://github.com/chadrbanks/youtube-node-tutorial#readme",
+  "dependencies": {
+    "moment": "^2.26.0",
+    "shortid": "^2.2.15"
+  }
 }
