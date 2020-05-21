@@ -1,0 +1,19 @@
+{
+  "name": "youtube-node-tutorial",
+  "version": "1.0.0",
+  "description": "This project is an open source introduction to Nodejs.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadrbanks/youtube-node-tutorial.git"
+  },
+  "keywords": [
+    "Tutorial"
+  ],
+  "author": "Chad R. Banks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadrbanks/youtube-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/chadrbanks/youtube-node-tutorial#readme"
+}
