@@ -18,6 +18,7 @@
   "homepage": "https://github.com/chadrbanks/youtube-node-tutorial#readme",
   "dependencies": {
     "moment": "^2.26.0",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "yargs": "^15.3.1"
   }
 }
